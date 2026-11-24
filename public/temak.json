@@ -1,0 +1,245 @@
+{
+  "temak": [
+    {
+      "id": "tema-001",
+      "nev": "Mesterséges intelligencia az oktatásban",
+      "hozzaadasDatuma": "2026-02-27T09:47:00.000Z",
+      "ertekeles": 10,
+      "kreativ": true,
+      "otletgazda": "Szabó Anna"
+    },
+    {
+      "id": "tema-002",
+      "nev": "Fenntartható városi közlekedés",
+      "hozzaadasDatuma": "2026-02-23T06:47:00.000Z",
+      "ertekeles": 4,
+      "kreativ": true,
+      "otletgazda": "Farkas Péter"
+    },
+    {
+      "id": "tema-003",
+      "nev": "Digitális minimalizmus és mentális egészség",
+      "hozzaadasDatuma": "2026-08-05T10:01:00.000Z",
+      "ertekeles": 9,
+      "kreativ": true,
+      "otletgazda": "Németh Zsófia"
+    },
+    {
+      "id": "tema-004",
+      "nev": "Okosotthon automatizálási ötletek",
+      "hozzaadasDatuma": "2026-11-05T09:35:00.000Z",
+      "ertekeles": 6,
+      "kreativ": false,
+      "otletgazda": "Tóth Gábor"
+    },
+    {
+      "id": "tema-005",
+      "nev": "Gamifikáció a munkahelyi képzésekben",
+      "hozzaadasDatuma": "2026-08-19T03:17:00.000Z",
+      "ertekeles": 8,
+      "kreativ": true,
+      "otletgazda": "Szabó Anna"
+    },
+    {
+      "id": "tema-006",
+      "nev": "Közösségi kertészkedés lakótelepeken",
+      "hozzaadasDatuma": "2026-08-05T19:17:00.000Z",
+      "ertekeles": 1,
+      "kreativ": false,
+      "otletgazda": "Kovács Bence"
+    },
+    {
+      "id": "tema-007",
+      "nev": "Zero-waste konyhai praktikák",
+      "hozzaadasDatuma": "2026-02-17T21:06:00.000Z",
+      "ertekeles": 9,
+      "kreativ": false,
+      "otletgazda": "Farkas Péter"
+    },
+    {
+      "id": "tema-008",
+      "nev": "Virtuális valóság a turizmusban",
+      "hozzaadasDatuma": "2026-05-16T10:46:00.000Z",
+      "ertekeles": 4,
+      "kreativ": true,
+      "otletgazda": "Kiss Júlia"
+    },
+    {
+      "id": "tema-009",
+      "nev": "Kiberbiztonsági tudatosság növelése",
+      "hozzaadasDatuma": "2026-02-11T02:18:00.000Z",
+      "ertekeles": 10,
+      "kreativ": false,
+      "otletgazda": "Farkas Péter"
+    },
+    {
+      "id": "tema-010",
+      "nev": "Helyi termelők piacterének digitalizálása",
+      "hozzaadasDatuma": "2026-04-10T07:04:00.000Z",
+      "ertekeles": 4,
+      "kreativ": true,
+      "otletgazda": "Horváth Dóra"
+    },
+    {
+      "id": "tema-011",
+      "nev": "Időmenedzsment technikák fejlesztőknek",
+      "hozzaadasDatuma": "2026-02-10T16:55:00.000Z",
+      "ertekeles": 5,
+      "kreativ": false,
+      "otletgazda": "Molnár Ádám"
+    },
+    {
+      "id": "tema-012",
+      "nev": "Interaktív történetmesélés videójátékokban",
+      "hozzaadasDatuma": "2026-07-06T14:23:00.000Z",
+      "ertekeles": 8,
+      "kreativ": false,
+      "otletgazda": "Papp Dániel"
+    },
+    {
+      "id": "tema-013",
+      "nev": "Megújuló energiaforrások háztartási szinten",
+      "hozzaadasDatuma": "2026-02-07T04:40:00.000Z",
+      "ertekeles": 4,
+      "kreativ": true,
+      "otletgazda": "Szabó Anna"
+    },
+    {
+      "id": "tema-014",
+      "nev": "Művészetterápia és stresszkezelés",
+      "hozzaadasDatuma": "2026-08-25T21:17:00.000Z",
+      "ertekeles": 6,
+      "kreativ": true,
+      "otletgazda": "Balogh Lilla"
+    },
+    {
+      "id": "tema-015",
+      "nev": "Kávékultúra és fenntartható beszerzés",
+      "hozzaadasDatuma": "2026-06-16T10:14:00.000Z",
+      "ertekeles": 8,
+      "kreativ": false,
+      "otletgazda": "Kiss Júlia"
+    },
+    {
+      "id": "tema-016",
+      "nev": "Podcast indításának lépései kezdőknek",
+      "hozzaadasDatuma": "2026-05-18T11:13:00.000Z",
+      "ertekeles": 2,
+      "kreativ": false,
+      "otletgazda": "Tóth Gábor"
+    },
+    {
+      "id": "tema-017",
+      "nev": "Ergonómikus home office kialakítása",
+      "hozzaadasDatuma": "2026-09-13T21:56:00.000Z",
+      "ertekeles": 5,
+      "kreativ": false,
+      "otletgazda": "Szabó Anna"
+    },
+    {
+      "id": "tema-018",
+      "nev": "Minimalista kapszulagardrób összeállítása",
+      "hozzaadasDatuma": "2026-05-16T13:15:00.000Z",
+      "ertekeles": 4,
+      "kreativ": false,
+      "otletgazda": "Papp Dániel"
+    },
+    {
+      "id": "tema-019",
+      "nev": "Adatvizualizáció a mindennapi döntéshozatalban",
+      "hozzaadasDatuma": "2026-10-27T22:57:00.000Z",
+      "ertekeles": 3,
+      "kreativ": false,
+      "otletgazda": "Tóth Gábor"
+    },
+    {
+      "id": "tema-020",
+      "nev": "Kreatív írásgyakorlatok blokkok feloldására",
+      "hozzaadasDatuma": "2026-03-13T01:31:00.000Z",
+      "ertekeles": 2,
+      "kreativ": true,
+      "otletgazda": "Kovács Bence"
+    },
+    {
+      "id": "tema-021",
+      "nev": "Társasjáték-tervezés alapjai",
+      "hozzaadasDatuma": "2026-03-21T05:10:00.000Z",
+      "ertekeles": 8,
+      "kreativ": false,
+      "otletgazda": "Farkas Péter"
+    },
+    {
+      "id": "tema-022",
+      "nev": "Városi méhészet és biodiverzitás",
+      "hozzaadasDatuma": "2026-02-02T21:24:00.000Z",
+      "ertekeles": 9,
+      "kreativ": false,
+      "otletgazda": "Németh Zsófia"
+    },
+    {
+      "id": "tema-023",
+      "nev": "Blockhain technológia az ellátási láncokban",
+      "hozzaadasDatuma": "2026-05-10T02:55:00.000Z",
+      "ertekeles": 6,
+      "kreativ": true,
+      "otletgazda": "Balogh Lilla"
+    },
+    {
+      "id": "tema-024",
+      "nev": "Gyorsolvasási és memóriafejlesztő módszerek",
+      "hozzaadasDatuma": "2026-10-02T17:49:00.000Z",
+      "ertekeles": 4,
+      "kreativ": true,
+      "otletgazda": "Horváth Dóra"
+    },
+    {
+      "id": "tema-025",
+      "nev": "Zenei improvizáció digitális eszközökkel",
+      "hozzaadasDatuma": "2026-08-11T14:29:00.000Z",
+      "ertekeles": 8,
+      "kreativ": false,
+      "otletgazda": "Németh Zsófia"
+    },
+    {
+      "id": "tema-026",
+      "nev": "Fényképezés természetes fényekkel",
+      "hozzaadasDatuma": "2026-04-03T01:58:00.000Z",
+      "ertekeles": 6,
+      "kreativ": false,
+      "otletgazda": "Balogh Lilla"
+    },
+    {
+      "id": "tema-027",
+      "nev": "Pénzügyi tudatosság fiatal felnőtteknek",
+      "hozzaadasDatuma": "2026-09-18T04:12:00.000Z",
+      "ertekeles": 4,
+      "kreativ": true,
+      "otletgazda": "Németh Zsófia"
+    },
+    {
+      "id": "tema-028",
+      "nev": "Biohacking és alvásminőség javítása",
+      "hozzaadasDatuma": "2026-09-29T09:38:00.000Z",
+      "ertekeles": 7,
+      "kreativ": true,
+      "otletgazda": "Kovács Bence"
+    },
+    {
+      "id": "tema-029",
+      "nev": "Közösségi finanszírozású projektek sikertényezői",
+      "hozzaadasDatuma": "2026-07-05T18:15:00.000Z",
+      "ertekeles": 7,
+      "kreativ": true,
+      "otletgazda": "Kovács Bence"
+    },
+    {
+      "id": "tema-030",
+      "nev": "Retro technológiák modern újraértelmezése",
+      "hozzaadasDatuma": "2026-09-06T11:48:00.000Z",
+      "ertekeles": 4,
+      "kreativ": true,
+      "otletgazda": "Szabó Anna"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
